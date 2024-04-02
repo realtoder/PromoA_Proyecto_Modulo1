@@ -3,7 +3,7 @@
 *Team de desarrollo: The Complainers*
 
 ## Descripción del proyecto
-En colaboración con el Instituto Cervantes [enlace a la página del Instituto Cervantes](https://cervantes.org/), hemos desarrollado este proyecto lúdico-pedagógico centrado en el desarrollo de tres juegos clásicos diseñados para fomentar la integración y el aprendizaje de la cultura española entre los nuevos ciudadanos. Estos juegos no solo ofrecen entretenimiento, sino que también sirven como herramientas educativas para ayudar a los usuarios a prepararse para el examen de ciudadanía, necesario para obtener la nacionalidad española. Con una combinación de diversión y aprendizaje, buscamos facilitar el proceso de integración y promover el conocimiento y aprecio por la cultura y el idioma español.
+En colaboración con el Instituto Cervantes (https://cervantes.org/), hemos desarrollado este proyecto lúdico-pedagógico centrado en el desarrollo de tres juegos clásicos diseñados para fomentar la integración y el aprendizaje de la cultura española entre los nuevos ciudadanos. Estos juegos no solo ofrecen entretenimiento, sino que también sirven como herramientas educativas para ayudar a los usuarios a prepararse para el examen de ciudadanía, necesario para obtener la nacionalidad española. Con una combinación de diversión y aprendizaje, buscamos facilitar el proceso de integración y promover el conocimiento y aprecio por la cultura y el idioma español.
 
 ## Equipo de desarrollo
 El equipo de desarrollo detrás de este proyecto es *The Complainers*, un grupo de cuatro desarrolladoras dedicadas a la creación de soluciones educativas innovadoras. Nuestro equipo está comprometido con la excelencia y la accesibilidad en el diseño de juegos educativos.
@@ -31,4 +31,7 @@ El usuario deberá superar una serie de rondas para ganar. La partida se puede r
 Los tres juegos se han desarrollado utilizando Python como lenguaje de programación. Actualmente, todos los juegos están completamente funcionales, sin embargo, es importante destacar que aún no cuentan con una interfaz gráfica. Esto significa que los juegos se ejecutan en la terminal de comandos y se basan en texto para la interacción con el usuario. Aunque no tienen una interfaz gráfica elaborada, la simplicidad de su diseño los hace accesibles y fáciles de jugar para una amplia gama de usuarios.
 
 # Contacto
-![Logotipo The Complainers](ruta/a/la/imagen.png)
+![Logotipo The Complainers](imagenes/images.png)
+
+Para enviarnos cualquier sugerencia o queja, ponte en contacto con nosotras
+hola@thecomplainers.com | 914 834 914
