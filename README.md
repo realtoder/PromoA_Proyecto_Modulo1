@@ -1,8 +1,11 @@
 # Juegos clásicos para la integración y el aprendizaje de la cultura y el idioma español.
 ## Presentación de los tres juegos educativos desarrollados para el Instituto Cervantes. 
+
 *Equipo de desarrollo The Complainers (Tania Graff, Valentina Fisher, Marta García y Reyes Altozano)*
 
 ![logo_Cervantes](https://seeklogo.com/images/I/Instituto_Cervantes-logo-43716A977A-seeklogo.com.png)
+
+
 
 
 ## Descripción del proyecto
@@ -19,7 +22,11 @@ El proyecto incluye los siguientes juegos:
 
 3. **Juego de piedra, papel o tijera.** Una forma divertida de practicar el idioma y de sobrellevar los tiempos de espera durante la tramitación de la ciudadanía.
 
+<<<<<<< HEAD
 ## Guía de uso
+=======
+# Guía de uso
+>>>>>>> 5037690c49b5b9c3b87cfdcd29bd5a0b7ced648f
 A continuación, describimos brevemente las reglas para jugar a los tres juegos.
 
 1. **Reglas para jugar al juego del ahorcado.** El usuario tendrá que adivinar letra por letra la palabra escondida. Por cada letra que no esté en la palabra, se dibujará una parte del ahorcado. Si el usuario completa la palabra antes de que se dibuje el ahorcado, ganará la partida. La partida se puede repetir todas las veces que se quiera.
@@ -30,10 +37,19 @@ A continuación, describimos brevemente las reglas para jugar a los tres juegos.
 - Papel envuelve piedra, ganando papel.
 El usuario deberá superar una serie de rondas para ganar. La partida se puede repetir todas las veces que se quiera.
 
+<<<<<<< HEAD
 ## Otras consideraciones
 Los tres juegos se han desarrollado utilizando Python como lenguaje de programación. Actualmente, todos los juegos están completamente funcionales, sin embargo, es importante destacar que aún no cuentan con una interfaz gráfica. Esto significa que los juegos se ejecutan en la terminal de comandos y se basan en texto para la interacción con el usuario. Aunque no tienen una interfaz gráfica elaborada, la simplicidad de su diseño los hace accesibles y fáciles de jugar para una amplia gama de usuarios.
 
 ## Contacto
 Para saludarnos o enviarnos cualquier sugerencia o queja, 
 ponte en contacto con nosotras: hola@thecomplainers.com | 914 834 914 
+=======
+# Otras consideraciones
+Los tres juegos se han desarrollado utilizando Python como lenguaje de programación. Actualmente, todos los juegos están completamente funcionales, sin embargo, es importante destacar que aún no cuentan con una interfaz gráfica. Esto significa que los juegos se ejecutan en la terminal de comandos y se basan en texto para la interacción con el usuario. Aunque no tienen una interfaz gráfica elaborada, la simplicidad de su diseño los hace accesibles y fáciles de jugar para una amplia gama de usuarios.
+
+# Contacto
+Para saludarnos o enviarnos cualquier sugerencia o queja, 
+ponte en contacto con nosotras: hola@thecomplainers.com | 914 834 914 
+
 ![Logotipo The Complainers](imagenes/images.png) 
