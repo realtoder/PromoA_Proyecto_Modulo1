@@ -41,9 +41,6 @@ El usuario deberá superar una serie de rondas para ganar. La partida se puede r
 ## Otras consideraciones
 Los tres juegos se han desarrollado utilizando Python como lenguaje de programación. Actualmente, todos los juegos están completamente funcionales, sin embargo, es importante destacar que aún no cuentan con una interfaz gráfica. Esto significa que los juegos se ejecutan en la terminal de comandos y se basan en texto para la interacción con el usuario. Aunque no tienen una interfaz gráfica elaborada, la simplicidad de su diseño los hace accesibles y fáciles de jugar para una amplia gama de usuarios.
 
-## Contacto
-Para saludarnos o enviarnos cualquier sugerencia o queja, 
-ponte en contacto con nosotras: hola@thecomplainers.com | 914 834 914 
 =======
 # Otras consideraciones
 Los tres juegos se han desarrollado utilizando Python como lenguaje de programación. Actualmente, todos los juegos están completamente funcionales, sin embargo, es importante destacar que aún no cuentan con una interfaz gráfica. Esto significa que los juegos se ejecutan en la terminal de comandos y se basan en texto para la interacción con el usuario. Aunque no tienen una interfaz gráfica elaborada, la simplicidad de su diseño los hace accesibles y fáciles de jugar para una amplia gama de usuarios.
